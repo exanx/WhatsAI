@@ -1,0 +1,7 @@
+{
+  "name": "WhatsAI - Ultimate Gemini Chat V1",
+  "description": "A WhatsApp-style messaging application powered by the full suite of Google Gemini models, featuring Live API, Image Editing, Thinking Mode, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
